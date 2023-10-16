@@ -22,7 +22,7 @@ The Sign Language Interpreter project is a revolutionary platform that leverages
     - Node.js
     - Express.js
 - **AI and Machine Learning**:
-    - Python with TensorFlow for gesture recognition.
+    - Python with TensorFlow and mediapipe for gesture recognition.
     - OpenCV for computer vision.
 
 ## Contributors
